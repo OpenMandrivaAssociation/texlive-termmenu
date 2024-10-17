@@ -3,7 +3,7 @@ Version:	37700
 Release:	1
 Summary:	The package provides support for terminal-based menus using expl3
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/termmenu
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/termmenu
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termmenu.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/termmenu.doc.r%{version}.tar.xz
